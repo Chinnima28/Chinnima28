@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chinmayie
+- 👋 Hi, I’m Chinmayie
 - 👀 I’m interested in data analysis, API integration, and creating innovative web and mobile applications.
 - 🌱 I’m currently learning how to integrate APIs into Chrome extensions.
 - 💞️ I’m looking to collaborate on open-source projects related to machine learning, mobile apps, or creative web solutions.
