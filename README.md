@@ -72,7 +72,6 @@ I'm passionate about data analysis, API integration, and building innovative web
 
 ## 📊 GitHub Activity
 
-![Chinmayie's Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak-stats-card?username=Chinnima28&theme=solarized_dark)
 [![Chinmayie's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chinnima28&theme=radical&hide_border=true)](https://github.com/Chinnima28)
 
 ## 📈 Contributions Graph
