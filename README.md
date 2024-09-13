@@ -1,9 +1,9 @@
 <h1 align="center">Chinmayie V B S</h1>
-<p align="center">
-  I'm a passionate developer specializing in data analysis, API integration, and creating innovative web and mobile applications.
-  <br> Currently, I'm learning how to integrate APIs into Chrome extensions and seeking opportunities to collaborate on open-source projects related to machine learning, mobile apps, or creative web solutions.
-</p>
 
+## About Me 🌟
+
+I'm a passionate developer specializing in data analysis, API integration, and creating innovative web and mobile applications.  
+Currently, I'm learning how to integrate APIs into Chrome extensions and seeking opportunities to collaborate on open-source projects related to machine learning, mobile apps, or creative web solutions.
 
 ## 🌱 What I'm Learning
 - Integrating APIs with Chrome extensions
