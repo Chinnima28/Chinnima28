@@ -72,7 +72,8 @@ I'm passionate about data analysis, API integration, and building innovative web
 
 ## 🌟 Contribution Graph
 
-![Chinmayie's Contributions](https://activity-graph.herokuapp.com/graph?username=Chinnima28&theme=dracula)
+[![Chinmayie's Contributions](https://github-readme-stats.vercel.app/api?username=Chinnima28&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Chinnima28)
+
 
 ## ⚡ Fun Fact
 
