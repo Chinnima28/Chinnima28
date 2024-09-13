@@ -10,25 +10,46 @@ I'm passionate about data analysis, API integration, and building innovative web
 ## 💞️ I’m Looking to Collaborate On
 - Open-source projects related to machine learning, mobile apps, or creative web solutions.
 
-## 💻 Tech I Work With
+## 💻 Tech Stack & Tools
 
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC?style=for-the-badge&logo=code-blocks&logoColor=white)
 
+### Tools & IDEs
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC?style=for-the-badge&logo=code-blocks&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A3FF?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-FF5722?style=for-the-badge&logo=google&logoColor=white)
+![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-000000?style=for-the-badge&logo=google&logoColor=white)
+![Windows Copilot](https://img.shields.io/badge/Windows_Copilot-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI_Tools-FF0000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Java Streams](https://img.shields.io/badge/Java_Streams-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java AWT](https://img.shields.io/badge/Java_AWT-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### APIs
+![Lyrics.ovh](https://img.shields.io/badge/Lyrics.ovh-FFDD00?style=for-the-badge&logo=lyrics&logoColor=black)
+![Lingva Translate](https://img.shields.io/badge/Lingva_Translate-007ACC?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Manifest_V3-009688?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Background Scripts](https://img.shields.io/badge/Background_Scripts-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 
 ## 🚀 Projects I'm Proud Of
 
@@ -48,6 +69,10 @@ I'm passionate about data analysis, API integration, and building innovative web
 
 ![Chinmayie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinnima28&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Chinmayie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinnima28&layout=compact&theme=radical)
+
+## 🌟 Contribution Graph
+
+![Chinmayie's Contributions](https://activity-graph.herokuapp.com/graph?username=Chinnima28&theme=dracula)
 
 ## ⚡ Fun Fact
 
