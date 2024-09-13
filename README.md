@@ -70,9 +70,15 @@ I'm passionate about data analysis, API integration, and building innovative web
 ![Chinmayie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinnima28&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Chinmayie's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinnima28&layout=compact&theme=radical)
 
-## 🌟 Contribution Graph
+## 📊 GitHub Activity
 
-[![Chinmayie's Contributions](https://github-readme-stats.vercel.app/api?username=Chinnima28&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Chinnima28)
+![Chinmayie's Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=Chinnima28&theme=solarized_dark)
+![Chinmayie's Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak-stats-card?username=Chinnima28&theme=solarized_dark)
+
+
+## 📈 Contributions Graph
+
+![Chinmayie's Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinnima28&theme=solarized_dark)
 
 
 ## ⚡ Fun Fact
