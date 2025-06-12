@@ -63,6 +63,12 @@ Currently, I'm learning how to integrate APIs into Chrome extensions and seeking
 - **[DAZAI](https://github.com/Chinnima28/dazai):** Empowering inclusivity by converting English content to Hindi for accessible government websites.
 - **[MapSortingUtility](https://github.com/Chinnima28/MapSortingUtility):** A Java library for sorting maps by keys or values.
 
+## 🐙🤝 Open Source Contributions
+
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%9D%20Love-ff69b4.svg?style=for-the-badge)](https://github.com/Chinnima28)
+
+- 🛠️ [DevGuard Web](https://github.com/l3montree-dev/devguard-web) – Contributed a fix for issue [#767](https://github.com/l3montree-dev/devguard/issues/767), merged in [PR #447](https://github.com/l3montree-dev/devguard-web/pull/447)
+
 ## 🌐 Find Me
 
 - **[LinkedIn](https://www.linkedin.com/in/chinmayievbs20032805/):** Connect with me!
@@ -80,7 +86,6 @@ Currently, I'm learning how to integrate APIs into Chrome extensions and seeking
 ## 📈 Contributions Graph
 
 ![Chinmayie's Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinnima28&theme=solarized_dark)
-
 
 ## ⚡ Fun Fact
 
